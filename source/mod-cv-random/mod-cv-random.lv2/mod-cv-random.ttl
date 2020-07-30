@@ -61,7 +61,6 @@ lv2:port
     lv2:default 0.0 ;
     lv2:minimum -10.0 ;
     lv2:maximum 10.0 ;
-    mod:volts ;
 ]
 ,
 [
@@ -73,7 +72,6 @@ lv2:port
     lv2:default 1.0 ;
     lv2:minimum -10.0 ;
     lv2:maximum 10.0 ;
-    mod:volts ;
 ]
 ,
 [
